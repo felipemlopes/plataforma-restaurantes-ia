@@ -11,7 +11,7 @@
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-> 🔒 **Repositório vitrine.** O código-fonte é privado. Aqui estão a arquitetura e as decisões técnicas. Demonstração técnica disponível sob solicitação.
+> **Repositório vitrine.** O código-fonte é privado. Aqui estão a arquitetura e as decisões técnicas. Demonstração técnica disponível sob solicitação.
 
 ## O problema
 
